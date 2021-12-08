@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    -<rss version="2.0">
-        -<channel>
-            -<item>
-            <title>Dodatak o Glumcu</title>
-            <link>http://aaa/glumci.html</link>
-            <description>Na koji način je Bata Živojinović snimao filmove</description>
+    <rss version="2.0">
+        <channel>
+            <item>
+                <title>Kafeterija Kafidžonka</title>
+                <link>http://katarinastanojlovic.github.io</link>
+                <description>Lepota kafeterije se nalazi u ukusu naše kafe.</description>
             </item>
-            -<item>
-            <title>Izmene autora</title>
-            <link>http://aaa/autor_i_kontakt.html</link>
-            <description>Sve nagrade i dela autora ovog sajta</description>
+            <item>
+                <title>Galerija kafeterije</title>
+                <link>https://katarinastanojlovic.github.io/galerija.html</link>
+                <description>Izaberite vašu kafu u našoj galeriji.</description>
+            </item>
+                 <title>Galerija kafeterije</title>
+                <link>https://katarinastanojlovic.github.io/meni.html</link>
+                <description>Pogledajte cenu kafe koju ste izabrali.</description>
             </item>
         </channel>
     </rss>
