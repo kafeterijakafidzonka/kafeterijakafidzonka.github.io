@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    -<rss version="2.0">
+        -<channel>
+            -<item>
+            <title>Dodatak o Glumcu</title>
+            <link>http://aaa/glumci.html</link>
+            <description>Na koji način je Bata Živojinović snimao filmove</description>
+            </item>
+            -<item>
+            <title>Izmene autora</title>
+            <link>http://aaa/autor_i_kontakt.html</link>
+            <description>Sve nagrade i dela autora ovog sajta</description>
+            </item>
+        </channel>
+    </rss>

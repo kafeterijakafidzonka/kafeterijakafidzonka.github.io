@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://aaa/schemas/sitemap/0.9">
+	<url>
+		<loc>http://aaa/index.html</loc>
+		<lastmod>2019-12-06</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://aaa/istorijat.html</loc>
+		<lastmod>2019-12-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>http://aaa/glumci.html</loc>
+		<lastmod>2019-12-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>http://aaa/autor_i_kontakt.html</loc>
+		<lastmod>2019-12-06</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.5</priority>
+	</url>
+</urlset>
