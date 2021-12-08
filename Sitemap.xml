@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://katarinastanojlovic.github.io/index.html</loc>
+		<loc>https://kafeterijakafidzonka.github.io/index.html</loc>
 		<lastmod>2021-12-08</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>https://katarinastanojlovic.github.io/galerija.html</loc>
+		<loc>https://kafeterijakafidzonka.github.io/galerija.html</loc>
 		<lastmod>2021-12-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>https://katarinastanojlovic.github.io/meni.html</loc>
+		<loc>https://kafeterijakafidzonka.github.io/meni.html</loc>
 		<lastmod>2021-12-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>https://katarinastanojlovic.github.io/autor.html</loc>
+		<loc>https://kafeterijakafidzonka.github.io/autor.html</loc>
 		<lastmod>2021-12-08</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.5</priority>
