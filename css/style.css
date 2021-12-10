@@ -229,9 +229,6 @@ header nav ul li a span{
          /*Kraj bloka Ponude*/
         /* O nama*/
 
-.heading h2{
-	font-size: 30px;
-}
 .heading h1{
 	font-size: 35px;
 	font-weight: 900;
@@ -240,6 +237,7 @@ header nav ul li a span{
 	text-shadow: 5px 5px 5px #000000;
 }
 .heading h2{
+	text-indent: 25px;
 	text-shadow: 5px 5px 5px #000000;
 	font-size: 25px;
 	font-weight: 600;
